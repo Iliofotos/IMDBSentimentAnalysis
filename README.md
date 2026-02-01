@@ -60,3 +60,9 @@ Confidence: 89.1%
 ## Author
 
 Iliofotos Iliofotou - [GitHub](https://github.com/Iliofotos) | [LinkedIn](https://linkedin.com/in/iliofotos-iliofotou-26244a155)
+## Other Projects
+
+Check out my other projects:
+
+- 🏦 [Credit Card Default Prediction](https://github.com/Iliofotos/CreditCardDefaultPrediction) - ML classification with 5 algorithms on 30k records
+- 🎮 [Video Game Rating App](https://github.com/Iliofotos/FYP) - Cross-platform mobile app built with Xamarin
