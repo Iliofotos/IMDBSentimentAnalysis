@@ -3,8 +3,6 @@
 
 A machine learning project that predicts whether a movie review is **positive** or **negative** using Natural Language Processing (NLP) techniques.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Iliofotos/IMDB-Sentiment-Analysis/blob/main/IMDB_Sentiment_Analysis.ipynb)
-
 ## Overview
 
 This project uses the IMDB dataset (50,000 movie reviews) to train a Multinomial Naive Bayes classifier. The text is converted to numerical features using TF-IDF vectorization.
