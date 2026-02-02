@@ -29,8 +29,7 @@ This project uses the IMDB dataset (50,000 movie reviews) to train a Multinomial
 - Scikit-learn
 - Matplotlib
 
-
-Or run locally:
+run locally:
 ```bash
 pip install pandas numpy scikit-learn matplotlib
 ```
