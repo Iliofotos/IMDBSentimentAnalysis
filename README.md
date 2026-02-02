@@ -29,11 +29,6 @@ This project uses the IMDB dataset (50,000 movie reviews) to train a Multinomial
 - Scikit-learn
 - Matplotlib
 
-run locally:
-```bash
-pip install pandas numpy scikit-learn matplotlib
-```
-
 ## Sample Predictions
 ```
 Review: "This movie was absolutely amazing! Best film I've seen..."
@@ -44,12 +39,6 @@ Review: "Terrible movie. Boring plot, bad acting..."
 Prediction: negative
 Confidence: 89.1%
 ```
-
-## Future Improvements
-
-- Try Logistic Regression or SVM for comparison
-- Add bigrams (ngram_range=(1,2))
-- Experiment with word embeddings (Word2Vec)
 
 ## Author
 
