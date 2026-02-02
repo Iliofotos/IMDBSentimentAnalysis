@@ -29,9 +29,6 @@ This project uses the IMDB dataset (50,000 movie reviews) to train a Multinomial
 - Scikit-learn
 - Matplotlib
 
-## Quick Start
-
-No setup required! Click the "Open in Colab" button above and run all cells.
 
 Or run locally:
 ```bash
