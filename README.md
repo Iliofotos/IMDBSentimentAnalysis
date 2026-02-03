@@ -14,6 +14,8 @@ This project uses the IMDB dataset (50,000 movie reviews) to train a Multinomial
 | Accuracy | 85.44% |
 | Balanced Accuracy | 85.44% |
 | AUC | 0.93 |
+<img width="567" height="455" alt="image" src="https://github.com/user-attachments/assets/168810cb-74c9-4b88-8b53-aa306dbe8d90" />
+<img width="448" height="455" alt="image" src="https://github.com/user-attachments/assets/32327add-3d96-46d2-a84d-a8f891453a8d" />
 
 ## Approach
 
